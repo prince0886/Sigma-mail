@@ -1,4 +1,5 @@
-📧 Email Summarizer – AI-Powered Gmail Summary Tool
+📧 Email Summarizer –
+AI-Powered Gmail Summary Tool
 This project is an intelligent email summarization tool built with Streamlit and OpenAI's GPT-3.5. It helps users quickly understand long or multiple emails by generating concise summaries.
 
 Features:
